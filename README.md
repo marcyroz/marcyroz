@@ -18,5 +18,7 @@ If you'd ask about me, I'd say how i'm currently in college studying to become a
 <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=marcyroz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+## Professional contact
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/marcelly-do-nascimento-farias-93aa17268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
           
           
