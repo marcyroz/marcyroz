@@ -1,7 +1,7 @@
 
 # 👋🏼 Hi! Welcome to my profile 😼💻
 
-<img src="dumb-cat.gif" width="550"/>
+<img src="dumb-cat.gif"  width="300" heigth="300"/>
 
 ## My name is Marcelly, but you can call me Marcy :)
 
