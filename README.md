@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&random=false&width=510&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hi!+Welcome+to+my+profile+%F0%9F%98%BC%F0%9F%92%BB" alt="Typing SVG" /></a></br>
 <img src="dumb-cat.gif"  width="300" heigth="300"/>
 
-## My name is Marcelly, but you can call me marcy :)
+<h3> My name is Marcelly, but you can call me marcy :)<h3/>
 
 ## 🏷 Rest...
 ✨ If you'd ask about me, I'd say how i'm currently in college studying to become a great front-end developer! I love this field, especially cause I can let my creativity fly as much as I want to! However, of course, in terms of what is most productive in the industry. <br><br>
