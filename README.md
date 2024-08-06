@@ -6,7 +6,7 @@
 
 ## 🏷 Rest...
 ✨ If you'd ask about me, I'd say how i'm currently in college studying to become a great front-end developer! I love this field, especially cause I can let my creativity fly as much as I want to! However, of course, in terms of what is most productive in the industry. <br><br>
-🏆 My highest goal in the moment is to deepen my undestanding in React JS and Angular JS, and find a job position that gives me the opportunity to learn even more, cause theres no such thing as enough knowledge!
+🏆 My highest goals in the moment are to deepen my undestanding in React, Angular, and learn even more, cause theres no such thing as enough knowledge!
 
 ## 🔬 Ferramentas e Tecnologias
 
