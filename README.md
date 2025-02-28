@@ -23,7 +23,8 @@
 <img loading="lazy" height="174em" src="https://github-readme-stats.vercel.app/api?username=marcyroz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-### Professional contact
+### Other networks
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/marcelly-do-nascimento-farias-93aa17268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[<img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white">](https://www.behance.net/marcellnascime7)
           
           
