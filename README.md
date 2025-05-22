@@ -11,7 +11,7 @@
 
 🚀 Right now, I'm focused on deepening my knowledge in Next Js, sharpening my UI/UX design skills, and contributing to projects where I can grow and make a real impact.
 
-🌱 Always learning, always curious — and always ready to turn ideas into reality.
+🌱 Always learning, always curious and always ready to turn ideas into reality.
 
 Let’s build something awesome together!
 ## 🔬 Tools & Technologies
