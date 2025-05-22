@@ -7,7 +7,7 @@
 ## 🏷 Rest...
 🎨 I'm a front-end developer in the making, currently in college and working as a freelancer with web development, design, and animation. I love building interfaces that are not just functional, but also visually meaningful.
 
-💻 I work mainly with JavaScript, TypeScript, React, Angular, HTML, CSS and tools like Tailwind, MUI, and Sass. I'm also into visual storytelling, so I often blend code with illustration and motion to bring projects to life.
+💻 I work mainly with TypeScript, React, Next, and tools like Tailwind, MUI, and Sass. I'm also into visual storytelling, so I often blend code with illustration and motion to bring projects to life.
 
 🚀 Right now, I'm focused on deepening my knowledge in Next Js, sharpening my UI/UX design skills, and contributing to projects where I can grow and make a real impact.
 
