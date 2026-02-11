@@ -33,6 +33,7 @@ Let’s build something awesome together!
 </div>
 
 ### 🌐 Other networks
+[My portfolio](https://marcelly-farias-dev.vercel.app/en)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/marcelly-do-nascimento-farias-93aa17268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [<img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white">](https://www.behance.net/marcellnascime7)
           
